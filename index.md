@@ -1,3 +1,6 @@
+---
+title: Github Pages Example
+---
 Mountains and Lakes in the UK
 ============================
 Engerland is not very mountainous.
